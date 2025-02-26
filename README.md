@@ -47,13 +47,18 @@ The app is deployed using **GitHub Pages**. Follow these steps to deploy:
 3. Under "Source," select the branch containing your HTML file (e.g., `main`).
 4. Click **Save**, and GitHub will provide a link to your deployed site.
 
-## Repository and Deployment Links
-- **GitHub Repository:** [Your Repo Link Here]
-- **Live Deployment:** [Your Deployed App Link Here]
 
 ## Technologies Used
 - **JavaScript (D3.js, Plotly.js)** for interactive visualizations
 - **HTML & CSS** for structuring and styling
 - **Git & GitHub** for version control and deployment
+
+# Screenshot examples
+
+![image](https://github.com/user-attachments/assets/699a138b-d1d6-4625-ab1c-c58eb51a566a)
+
+![image](https://github.com/user-attachments/assets/e25d12f9-47dc-416a-9c81-e6dd06ec28bb)
+
+
 
 
